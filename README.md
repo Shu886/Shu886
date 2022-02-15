@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shu886 in Southern University of Science and Technology.
-- 👀 I’m interested in robotics and UAV.
+- 👀 I’m interested in robotics.
 - 🌱 I’m currently learning design and robotics.
 - 📫 How to reach me 11912715@mail.sustech.edu.cn
 
